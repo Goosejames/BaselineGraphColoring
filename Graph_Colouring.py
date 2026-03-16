@@ -13,9 +13,9 @@ import networkx as nx
 class SimConfig:
     # Simulation parameters
     node_count: int = 60
-    radius: float = 0.22
-    colour_count: int = 8
-    max_steps: int = 400
+    radius: float = 0.18
+    colour_count: int = 10
+    max_steps: int = 600
     seed: int = 7
 
 
